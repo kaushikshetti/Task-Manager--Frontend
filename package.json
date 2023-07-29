@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://task-manager-backend-a5mi.onrender.com/",
+  "proxy": "http://15.206.210.102",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
