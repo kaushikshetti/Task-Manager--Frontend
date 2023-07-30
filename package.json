@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "http://15.206.210.102",
+  "proxy": "https://task-manager-backend-ksx9-d22eqry3f-kaushikshetti.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
